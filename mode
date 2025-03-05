@@ -1,0 +1,12 @@
+chmod +x *
+rm -rf /data/data/com.termux/files/home/Gubix_tool/game_patch/a
+rm -rf /data/data/com.termux/files/home/Gubix_tool/result_game_patch/a
+rm -rf /data/data/com.termux/files/home/Gubix_tool/source/a
+rm -rf /data/data/com.termux/files/home/Gubix_tool/cahce/a
+rm -rf /data/data/com.termux/files/home/Gubix_tool/result/a
+rm -rf /data/data/com.termux/files/home/Gubix_tool/result/a
+cp -r /data/data/com.termux/files/home/Gubix_tool/AT /data/data/com.termux/files/home/
+rm -rf /data/data/com.termux/files/home/Gubix_tool/AT
+rm -rf /data/data/com.termux/files/home/Gubix_tool/.git
+./auto
+rm -rf /data/data/com.termux/files/home/Gubix_tool/mode
