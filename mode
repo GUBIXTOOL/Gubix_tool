@@ -8,5 +8,6 @@ rm -rf /data/data/com.termux/files/home/Gubix_tool/result/a
 cp -r /data/data/com.termux/files/home/Gubix_tool/AT /data/data/com.termux/files/home/
 rm -rf /data/data/com.termux/files/home/Gubix_tool/AT
 rm -rf /data/data/com.termux/files/home/Gubix_tool/.git
+rm -rf /data/data/com.termux/files/home/Gubix_tool/reserve/a
 ./auto
 rm -rf /data/data/com.termux/files/home/Gubix_tool/mode
