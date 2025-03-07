@@ -11,5 +11,6 @@ rm -rf /data/data/com.termux/files/home/Gubix_tool/.git
 rm -rf /data/data/com.termux/files/home/Gubix_tool/reserve/a
 rm -rf /data/data/com.termux/files/home/Gubix_tool/effect_dir/result/a
 rm -rf /data/data/com.termux/files/home/Gubix_tool/effect_dir/cache/*
+rm -rf /data/data/com.termux/files/home/Gubix_tool/effect_dir/game_patch/a
 ./auto
 rm -rf /data/data/com.termux/files/home/Gubix_tool/mode
