@@ -9,5 +9,7 @@ cp -r /data/data/com.termux/files/home/Gubix_tool/AT /data/data/com.termux/files
 rm -rf /data/data/com.termux/files/home/Gubix_tool/AT
 rm -rf /data/data/com.termux/files/home/Gubix_tool/.git
 rm -rf /data/data/com.termux/files/home/Gubix_tool/reserve/a
+rm -rf /data/data/com.termux/files/home/Gubix_tool/effect_dir/result/a
+rm -rf /data/data/com.termux/files/home/Gubix_tool/effect_dir/cache/*
 ./auto
 rm -rf /data/data/com.termux/files/home/Gubix_tool/mode
